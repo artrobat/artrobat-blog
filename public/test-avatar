@@ -1,1 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="artrobat_symbol" data-name="artrobat_symbol" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        stroke-width: 0px;
+      }
 
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="artrobat_symbol" data-name="artrobat_symbol">
+    <rect class="cls-2" x="0" y="0" width="512" height="512" rx="256" ry="256"/>
+    <g>
+      <path class="cls-1" d="m222.34,289.94l-118.06,118.06-28.28-28.28,118.05-118.06c3.13-3.13,3.13-8.19,0-11.32l-118.05-118.05,28.28-28.29,118.06,118.06c18.74,18.74,18.74,49.14,0,67.88Z"/>
+      <path class="cls-1" d="m317.95,261.66l118.05,118.06-28.28,28.28-118.06-118.06c-18.74-18.74-18.74-49.14,0-67.88l118.06-118.06,28.28,28.29-118.05,118.05c-3.13,3.13-3.13,8.19,0,11.32Z"/>
+    </g>
+  </g>
+</svg>
